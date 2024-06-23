@@ -1,0 +1,54 @@
+#emailinp{
+    position: relative;
+    left: 36px;
+}
+#passwordinp{
+    position: relative;
+    left: 21px;
+}
+.container-fluid{
+    width: 50%;
+    position: relative;
+    left: 20%;
+}
+button{
+    margin: 2%;
+}
+.main{
+    border: 2px solid blue;
+    padding: 1%;
+    margin: 7%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 20%;
+    background-color: black;
+    position: relative;
+    bottom: 100px;
+    color: blue;
+}
+#fnameinp{
+    position: relative;
+    left: 14px;
+}
+#snameinp{
+    position: relative;
+    left: 2px;
+}
+#cfmpasswordinp{
+    position: relative;
+    right: 10px;
+}
+.cfm{
+    position: relative;
+    right: 20px;
+}
+a{
+    text-decoration: none;
+     color: white;
+}
+h2{
+   color: white;
+}
+h4{
+    color: white;
+}
